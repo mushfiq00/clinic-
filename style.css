@@ -384,8 +384,9 @@ h1 span {
   color: #aaa;
 }
 .contact-form-btn {
-  width: 30%;
+  width: 40%;
   margin-right: 60%;
+  font-size: 1.6vw !important;
   border: none;
   outline: none;
   border-radius: 50px;
@@ -394,7 +395,7 @@ h1 span {
   text-transform: uppercase;
   padding: 10px 0;
   cursor: pointer;
-  font-size: 18px;
+ 
 }
 @media (max-width: 800px) {
     .contact-form{
